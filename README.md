@@ -1,7 +1,7 @@
 # 🏫 Diarioo — Sistema Escolar Digital  
 
 <div align="center">
-  <img src="https://github.com/gabscarlos/diarioo/raw/main/.gitassets/1.png" width="350" />
+  <img src="https://github.com/gabscarlos/diarioo/raw/main/.gitassets/1.png" width="80%" />
 </div>
 
 <div align="center">
