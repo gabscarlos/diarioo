@@ -65,6 +65,6 @@ Gerencie turmas, alunos e notas de forma prática e totalmente digital.
 ---
 
 <div align="center">
-  <sub>Desenvolvido por <strong>Gabriel Carlos</strong> — veja mais em <a href="https://gabscarlos.github.io/" target="_blank">meu portfólio</a> 🧑‍💻</sub>
+  <sub>Desenvolvido por <strong>Gabriel Carlos</strong> — veja mais em <a href="https://gabscarlos.vercel.app/" target="_blank">meu portfólio</a> 🧑‍💻</sub>
 </div>
 
