@@ -1,7 +1,7 @@
-# 🏫 Diárioo — Sistema Escolar Digital  
+# 🏫 Diarioo — Sistema Escolar Digital  
 
 <div align="center">
-  <img src="https://github.com/gabscarlos/diarioo/raw/main/.gitassets/capa.png" width="350" />
+  <img src="https://github.com/gabscarlos/diarioo/raw/main/.gitassets/1.png" width="350" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre o projeto  
 
-O **Diárioo** é um **sistema escolar digital** desenvolvido para facilitar o gerenciamento de **turmas, disciplinas, alunos e notas escolares**, substituindo o uso de diários físicos em sala de aula.  
+O **Diarioo** é um **sistema escolar digital** desenvolvido para facilitar o gerenciamento de **turmas, disciplinas, alunos e notas escolares**, substituindo o uso de diários físicos em sala de aula.  
 
 Pensado especialmente para **escolas de pequeno porte**, o sistema oferece uma interface simples, intuitiva e totalmente online, permitindo que professores e coordenadores registrem e acompanhem o desempenho dos alunos com praticidade.  
 
@@ -37,18 +37,18 @@ Os dados são armazenados com segurança no **MongoDB Atlas**, oferecendo persis
 ---
 
 <div align="center">
-  <img src="https://github.com/gabscarlos/diarioo/raw/main/.gitassets/1.png" width="80%" />
-  <br><br>
   <img src="https://github.com/gabscarlos/diarioo/raw/main/.gitassets/2.png" width="80%" />
   <br><br>
   <img src="https://github.com/gabscarlos/diarioo/raw/main/.gitassets/3.png" width="80%" />
+  <br><br>
+  <img src="https://github.com/gabscarlos/diarioo/raw/main/.gitassets/4.png" width="80%" />
 </div>
 
 ---
 
 ## 🚀 Explore agora  
 
-👉 **[Acesse o Diárioo](https://diarioo-mocha.vercel.app/)**  
+👉 **[Acesse o Diarioo](https://diarioo-mocha.vercel.app/)**  
 
 Gerencie turmas, alunos e notas de forma prática e totalmente digital.  
 
